@@ -19,7 +19,7 @@ A sleek, responsive **Web Music Player** built using **HTML, CSS, and JavaScript
 
 ## 📸 Preview
 
-![Music Player](https://shubham-220305.github.io/CodeAlpha_Music_Player/)
+![Music Player]([https://shubham-220305.github.io/CodeAlpha_Music_Player/](https://shubham-220305.github.io/CodeAlpha_Music_Player/))
 
 ---
 
